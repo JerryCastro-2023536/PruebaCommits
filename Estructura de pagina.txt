@@ -1,0 +1,25 @@
+-- Usuario --
+-Login
+-Register
+-Pagina Principal
+-Crear cuenta vendedor
+-Contacto
+-Quienes somos
+-Categorías
+-Negocios
+-Servicios
+-Eventos
+-Buscar
+-Favoritos
+-Galería de fotos
+-Reseñas
+
+-- Vendedor -- 
+-Subir Publicación
+-Administrar Publicaciones 
+-Administrar Mensajes
+
+-- Administrador --
+-Verificar Publicación
+-Administrar Publicación
+-CRUD de todas las demás entidades
